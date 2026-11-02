@@ -1,4 +1,4 @@
-# webdev-gen-template
+# daily-wikipedia
 
 >
 > To view your site locally, run
