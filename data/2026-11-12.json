@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-12",
+  "levels": {
+    "1": {
+      "title": "Sacha Baron Cohen",
+      "description": "English actor and comedian (born 1971)",
+      "extract": "Sacha Noam Baron Cohen is an English actor, comedian, filmmaker and advocate. Known for his creation and portrayal of the fictional satirical characters Ali G, Borat Sagdiyev, Brüno Gehard, and Admiral General Haffaz Aladeen, he has received various accolades, including three Golden Globes Awards and two British Academy Television Awards, as well as nominations for three Academy Awards and six Primetime Emmy Awards. For his character work, Baron Cohen has been described as a performance artist.",
+      "url": "https://en.wikipedia.org/wiki/Sacha_Baron_Cohen",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sacha_Baron_Cohen_%282024%29_%283x4_cropped%29.jpg/330px-Sacha_Baron_Cohen_%282024%29_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.813,
+      "allTimeViews": 37060634,
+      "incomingLinks": 1558,
+      "languages": 70
+    },
+    "2": {
+      "title": "Isosorbide dinitrate",
+      "description": "Chemical compound",
+      "extract": "Isosorbide dinitrate is a medication used for heart failure, esophageal spasms, and to treat and prevent angina pectoris. It has been found to be particularly useful in heart failure due to systolic dysfunction together with hydralazine. It is taken by mouth or under the tongue.",
+      "url": "https://en.wikipedia.org/wiki/Isosorbide_dinitrate",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Isosorbide_dinitrate_structure.svg/330px-Isosorbide_dinitrate_structure.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.614,
+      "allTimeViews": 726829,
+      "incomingLinks": 222,
+      "languages": 24
+    },
+    "3": {
+      "title": "Dance improvisation",
+      "description": "Spontaneous creation of movement",
+      "extract": "Dance improvisation is the process of spontaneously creating movement. Development of movement material is facilitated through a variety of creative explorations including body mapping through levels, shape and dynamics schema.",
+      "url": "https://en.wikipedia.org/wiki/Dance_improvisation",
+      "thumbnail": null,
+      "score": 0.502,
+      "allTimeViews": 139340,
+      "incomingLinks": 135,
+      "languages": 8
+    },
+    "4": {
+      "title": "After After Party",
+      "description": "2018 American TV talk show",
+      "extract": "After After Party is an American late-night talk show hosted by comedian Sonia Denis that premiered on August 13, 2018, on Facebook Watch. Episodes air on weekdays, five nights per week, at 9:00 PM EST and feature a panel of guests alongside sketches featuring Denis and the show's writing staff.",
+      "url": "https://en.wikipedia.org/wiki/After_After_Party",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/3d/AfterAfterParty.png/330px-AfterAfterParty.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.327,
+      "allTimeViews": 10067,
+      "incomingLinks": 52,
+      "languages": 1
+    },
+    "5": {
+      "title": "Neoserica butuana",
+      "description": "Species of beetle",
+      "extract": "Neoserica butuana is a species of beetle of the family Scarabaeidae. It is found in the Philippines (Mindanao).",
+      "url": "https://en.wikipedia.org/wiki/Neoserica_butuana",
+      "thumbnail": null,
+      "score": 0.192,
+      "allTimeViews": 56,
+      "incomingLinks": 1,
+      "languages": 4
+    }
+  }
+}
