@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-13",
+  "levels": {
+    "1": {
+      "title": "Tommy Lee Jones",
+      "description": "American actor (born 1946)",
+      "extract": "Thomas Lee Jones is an American actor, film director, and former football player. He has received various accolades including an Academy Award, a Golden Globe Award, a Primetime Emmy Award, and two Screen Actors Guild Awards.",
+      "url": "https://en.wikipedia.org/wiki/Tommy_Lee_Jones",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/%22Ad_Astra%22_Screening_at_National_Geographic_NHQ201909160025_%28cropped%29.jpg/330px-%22Ad_Astra%22_Screening_at_National_Geographic_NHQ201909160025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.81,
+      "allTimeViews": 20620789,
+      "incomingLinks": 1481,
+      "languages": 77
+    },
+    "2": {
+      "title": "Athletics at the 2016 Summer Olympics – Women's 100 metres",
+      "description": "",
+      "extract": "The women's 100 metres event at the 2016 Summer Olympics took place between 12 and 13 August at the Olympic Stadium. The winning margin was 0.12 seconds. The winner, Elaine Thompson from Jamaica, had the second slowest reaction time in the final.",
+      "url": "https://en.wikipedia.org/wiki/Athletics_at_the_2016_Summer_Olympics_%E2%80%93_Women's_100_metres",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Engenh%C3%A3o_vista_atr%C3%A1s_do_gol.jpg/330px-Engenh%C3%A3o_vista_atr%C3%A1s_do_gol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.603,
+      "allTimeViews": 376333,
+      "incomingLinks": 252,
+      "languages": 22
+    },
+    "3": {
+      "title": "Tracie Ruiz",
+      "description": "American synchronized swimmer (born 1963)",
+      "extract": "Tracie Lehuanani Ruiz, also known after 1985 by her married name Tracie Lehuanani Ruiz-Conforto, is a former American competitive synchronized swimmer for the University of Arizona who won a total of three Olympic medals with a gold in both the duet and solo event at the 1984 Los Angeles Olympics, the first to feature synchronized swimming, and a silver in the solo event at the 1988 Seoul Olympics.",
+      "url": "https://en.wikipedia.org/wiki/Tracie_Ruiz",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Tracie_Ruiz_and_Candy_Costie_1984.jpg/330px-Tracie_Ruiz_and_Candy_Costie_1984.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.526,
+      "allTimeViews": 143788,
+      "incomingLinks": 72,
+      "languages": 17
+    },
+    "4": {
+      "title": "Zac Zaharias",
+      "description": null,
+      "extract": "Lieutenant Colonel Zacharakis Zaharias, is a retired senior Australian Army officer, veteran Australian mountain climber, adventurer and outdoor trainer. Zaharias was part of the Australian Army expedition that climbed Mount Everest in 2010. Zaharias was one of six Australians and two Britons who made it to the summit on 25 May 2010 with an expedition led by South Australian Duncan Chessell. Zaharias is a graduate of the Royal Military College, Duntroon (1974–77) and has served with the Royal Australian Engineers, including appointments as Commanding Officer 5th Combat Engineer Regiment (5CER) and 5th Engineer Regiment (5ER), at the Australian Defence Force Academy, and with the United Nations. Zaharias is the president of the Canberra Climbers Association.",
+      "url": "https://en.wikipedia.org/wiki/Zac_Zaharias",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Zac_Zaharias.jpg/330px-Zac_Zaharias.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.279,
+      "allTimeViews": 6936,
+      "incomingLinks": 16,
+      "languages": 1
+    },
+    "5": {
+      "title": "Da Água Morta River",
+      "description": "River in Brazil",
+      "extract": "The Da Água Morta River is a river on the border between São Paulo and Paraná states in southern Brazil. Arising in the Serra do Itapirapuã, it flows into the Itararé River.",
+      "url": "https://en.wikipedia.org/wiki/Da_%C3%81gua_Morta_River",
+      "thumbnail": null,
+      "score": 0.226,
+      "allTimeViews": 1691,
+      "incomingLinks": 6,
+      "languages": 1
+    }
+  }
+}
