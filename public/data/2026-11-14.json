@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-14",
+  "levels": {
+    "1": {
+      "title": "Arnold Schwarzenegger",
+      "description": "Austrian and American bodybuilder, actor and politician (born 1947)",
+      "extract": "Arnold Alois Schwarzenegger is an Austrian and American actor, businessman, film producer, former politician, and former professional bodybuilder who served as the 38th governor of California from 2003 to 2011. He is recognized as a cultural icon acting in numerous action films which have grossed over $5.4 billion worldwide. His accolades include a Primetime Emmy Award and a Golden Globe Award. He received a Motion Picture Star on the Hollywood Walk of Fame in 1984.",
+      "url": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg/330px-Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.896,
+      "allTimeViews": 76229618,
+      "incomingLinks": 4395,
+      "languages": 125
+    },
+    "2": {
+      "title": "Romania men's national handball team",
+      "description": "National sports team",
+      "extract": "The Romania men's national handball team is governed by the Romanian Handball Federation and takes part in international handball competitions. Romania was for many decades the most successful nation in handball with 4 gold medal wins at the World Championships, they served as a model for the sport. However, Romania has failed to win a medal since 1990.",
+      "url": "https://en.wikipedia.org/wiki/Romania_men's_national_handball_team",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c0/Romanian_Handball_Federation_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "score": 0.604,
+      "allTimeViews": 82966,
+      "incomingLinks": 282,
+      "languages": 29
+    },
+    "3": {
+      "title": "Reptynub",
+      "description": "Ancient Egyptian queen",
+      "extract": "Reptynub was a queen during the Fifth Dynasty of Egypt. She was the wife of King Nyuserre Ini. She was possibly a mother of Menkauhor Kaiu.",
+      "url": "https://en.wikipedia.org/wiki/Reptynub",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Reputnebu.png/330px-Reputnebu.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.516,
+      "allTimeViews": 11581,
+      "incomingLinks": 196,
+      "languages": 14
+    },
+    "4": {
+      "title": "NOURI (artist)",
+      "description": "Musical artist",
+      "extract": "Vivian Nouri is a New Zealand recording artist of Kurdish origin. On 6 November 2018, NOURI released her debut single \"Where Do We Go From Here\". The song debuted at number one on the New Zealand Hot 20 Singles Chart. On 8 March 2019, NOURI released her second single \"Favourite Goodbye\".",
+      "url": "https://en.wikipedia.org/wiki/NOURI_(artist)",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Nouri_performing_at_Z100_Dunkin%27_Donuts_Iced_Coffee_Lounge.png/330px-Nouri_performing_at_Z100_Dunkin%27_Donuts_Iced_Coffee_Lounge.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.35,
+      "allTimeViews": 41142,
+      "incomingLinks": 10,
+      "languages": 4
+    },
+    "5": {
+      "title": "Kori Bernards",
+      "description": "American businesswoman",
+      "extract": "Kori Bernards is the media strategist and trade and business press contact for Universal Pictures. Prior to being appointed to her position at Universal, Bernards was the Vice President of Corporate Communications for the Motion Picture Association of America (MPAA), headquartered in Los Angeles. She is the head of public relations and communications for the west coast and the principal spokeswoman in enforcing copyright protection for the MPAA. She is known to the public as a result of suing online copyright infringement hubs, including several popular BitTorrent trackers.",
+      "url": "https://en.wikipedia.org/wiki/Kori_Bernards",
+      "thumbnail": null,
+      "score": 0.235,
+      "allTimeViews": 3232,
+      "incomingLinks": 6,
+      "languages": 1
+    }
+  }
+}
