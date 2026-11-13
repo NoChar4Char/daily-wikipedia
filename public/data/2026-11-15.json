@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-15",
+  "levels": {
+    "1": {
+      "title": "Robert Enke",
+      "description": "German footballer (1977–2009)",
+      "extract": "Robert Enke was a German professional footballer who played as a goalkeeper.",
+      "url": "https://en.wikipedia.org/wiki/Robert_Enke",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Robert_Enke_3.JPG/330px-Robert_Enke_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.726,
+      "allTimeViews": 1742995,
+      "incomingLinks": 790,
+      "languages": 53
+    },
+    "2": {
+      "title": "Invincible-class battlecruiser",
+      "description": "Royal Navy ships",
+      "extract": "The three Invincible-class battlecruisers were built for the Royal Navy and entered service in 1908 as the world's first battlecruisers. They were the brainchild of Admiral Sir John (\"Jacky\") Fisher, the man who had sponsored the construction of the world's first \"all-big-gun\" warship, HMS Dreadnought. He visualised a new breed of warship, somewhere between the armoured cruiser and battleship; it would have the armament of the latter, but the high speed of the former. This combination would allow it to chase down most ships, while allowing it to run from more powerful designs.",
+      "url": "https://en.wikipedia.org/wiki/Invincible-class_battlecruiser",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/HMS_Invincible_%281907%29_British_Battleship.jpg/330px-HMS_Invincible_%281907%29_British_Battleship.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.599,
+      "allTimeViews": 397477,
+      "incomingLinks": 283,
+      "languages": 19
+    },
+    "3": {
+      "title": "Ona Šimaitė",
+      "description": "Lithuanian librarian, activist, and Holocaust survivor",
+      "extract": "Ona Šimaitė was a Lithuanian librarian at Vilnius University who used her position to aid and rescue Jews in the Vilna Ghetto during World War II. She is recognized as a Righteous Among the Nations.",
+      "url": "https://en.wikipedia.org/wiki/Ona_%C5%A0imait%C4%97",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Ona_%C5%A0imait%C4%97%2C_Vilnius_University_Librarian%2C_Righteous_Among_the_Nations.png/330px-Ona_%C5%A0imait%C4%97%2C_Vilnius_University_Librarian%2C_Righteous_Among_the_Nations.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.543,
+      "allTimeViews": 54941,
+      "incomingLinks": 146,
+      "languages": 18
+    },
+    "4": {
+      "title": "Ernest Gillibrand",
+      "description": "English footballer (1901-1976",
+      "extract": "Ernest Percival Gillibrand was an English footballer who played predominantly as a centre forward, but could also play at outside forward. He had a somewhat nomadic career, representing no fewer than 12 different clubs. During his career, Gillibrand played over 500 matches and scored in excess of 500 goals in the Manchester Football League. While playing for Hyde United, he set a league record of 87 goals in one season. He had a short spell as a professional player in the early stages of his career, and made two appearances in the Football League for Nelson.",
+      "url": "https://en.wikipedia.org/wiki/Ernest_Gillibrand",
+      "thumbnail": null,
+      "score": 0.285,
+      "allTimeViews": 3983,
+      "incomingLinks": 6,
+      "languages": 3
+    },
+    "5": {
+      "title": "Ma Wan (Tung Chung)",
+      "description": "Place",
+      "extract": "Ma Wan New Village is a village in Tung Chung, Lantau Island, Hong Kong. It is the resettlement village of the former nearby Ma Wan Village (馬灣村).",
+      "url": "https://en.wikipedia.org/wiki/Ma_Wan_(Tung_Chung)",
+      "thumbnail": null,
+      "score": 0.242,
+      "allTimeViews": 767,
+      "incomingLinks": 6,
+      "languages": 2
+    }
+  }
+}
