@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-16",
+  "levels": {
+    "1": {
+      "title": "Nayib Bukele",
+      "description": "President of El Salvador since 2019",
+      "extract": "Nayib Armando Bukele Ortez is a Salvadoran politician who has served as the 43rd president of El Salvador since 2019.",
+      "url": "https://en.wikipedia.org/wiki/Nayib_Bukele",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Presidente_Nayib_Bukele_%28cropped%29.jpg/330px-Presidente_Nayib_Bukele_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.765,
+      "allTimeViews": 11731111,
+      "incomingLinks": 599,
+      "languages": 74
+    },
+    "2": {
+      "title": "Calhan, Colorado",
+      "description": "Town in Colorado, US",
+      "extract": "The Town of Calhan is a statutory town located in El Paso County, Colorado, United States. The town population was 762 at the 2020 United States census. Calhan is a part of the Colorado Springs, CO Metropolitan Statistical Area and the Front Range Urban Corridor. The town straddles U.S. Highway 24. With Calhan sitting at an elevation of 6,535 feet above sea level, Calhan is the highest non-mountain town in the United States.",
+      "url": "https://en.wikipedia.org/wiki/Calhan%2C_Colorado",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Calhan_Colorado_by_David_Shankbone.jpg/330px-Calhan_Colorado_by_David_Shankbone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.585,
+      "allTimeViews": 108294,
+      "incomingLinks": 123,
+      "languages": 33
+    },
+    "3": {
+      "title": "Temafloxacin",
+      "description": "Chemical compound, antibiotic drug",
+      "extract": "Temafloxacin is a fluoroquinolone antibiotic drug which was withdrawn from sale in the United States shortly after its approval in 1992 because of serious adverse effects resulting in three deaths. It is not marketed in Europe.",
+      "url": "https://en.wikipedia.org/wiki/Temafloxacin",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Temafloxacin_structure.svg/330px-Temafloxacin_structure.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.492,
+      "allTimeViews": 28818,
+      "incomingLinks": 152,
+      "languages": 9
+    },
+    "4": {
+      "title": "2016 Alpine Skiing World Cup – Men's downhill",
+      "description": "Alpine ski discipline year standings",
+      "extract": "The men's downhill competition in the 2016 FIS Alpine Skiing World Cup involved eleven events, including the season finale in St. Moritz, Switzerland.",
+      "url": "https://en.wikipedia.org/wiki/2016_Alpine_Skiing_World_Cup_%E2%80%93_Men's_downhill",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Peter_Fill_Hinterstoder_2011.jpg/330px-Peter_Fill_Hinterstoder_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.328,
+      "allTimeViews": 1445,
+      "incomingLinks": 111,
+      "languages": 1
+    },
+    "5": {
+      "title": "Pratyush Sinha",
+      "description": "Indian civil servant",
+      "extract": "Pratyush Sinha is a retired Indian bureaucrat and civil servant. He served as the Central Vigilance Commissioner of India from 2006 to 2010.",
+      "url": "https://en.wikipedia.org/wiki/Pratyush_Sinha",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Pratyush_Sinha_releasing_a_Journal_%E2%80%9CManagement_in_Government%E2%80%9D%2C_in_New_Delhi_on%2C_2006_%28cropped%29.jpg/330px-Pratyush_Sinha_releasing_a_Journal_%E2%80%9CManagement_in_Government%E2%80%9D%2C_in_New_Delhi_on%2C_2006_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.246,
+      "allTimeViews": 10918,
+      "incomingLinks": 5,
+      "languages": 1
+    }
+  }
+}
