@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-17",
+  "levels": {
+    "1": {
+      "title": "Katy Perry",
+      "description": "American singer (born 1984)",
+      "extract": "Katheryn Elizabeth Hudson, known professionally as Katy Perry, is an American singer, songwriter, and television personality. Known for her influence on pop music and her camp style, she has been dubbed the \"Queen of Camp\" by Vogue and Rolling Stone.",
+      "url": "https://en.wikipedia.org/wiki/Katy_Perry",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Katy_Perry_2026_Tribeca_Film_Festival_%28cropped_1%29.jpg/330px-Katy_Perry_2026_Tribeca_Film_Festival_%28cropped_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.908,
+      "allTimeViews": 49383897,
+      "incomingLinks": 6250,
+      "languages": 124
+    },
+    "2": {
+      "title": "Ancient Aleppo",
+      "description": "Historic city centre of Aleppo, Syria",
+      "extract": "The Ancient City of Aleppo is the historic city centre of Aleppo, Syria. Prior to the Syrian Civil War, many districts of the ancient city remained essentially unchanged since they were initially constructed between the 11th and 16th centuries. Being subjected to constant invasions and political instability, the inhabitants of the city were forced to build economically independent cell-like quarters and districts, most of which were delineated along ethnic and religious lines. These urban subdistricts, along with the ancient walled city that they surround, comprise an approximate area of 350 hectares and are home to more than 120,000 residents.",
+      "url": "https://en.wikipedia.org/wiki/Ancient_Aleppo",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Aleppo_old_city_image.jpg/330px-Aleppo_old_city_image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.595,
+      "allTimeViews": 57030,
+      "incomingLinks": 203,
+      "languages": 33
+    },
+    "3": {
+      "title": "Palifermin",
+      "description": "Pharmaceutical drug",
+      "extract": "Palifermin is a truncated human recombinant keratinocyte growth factor (KGF) produced in Escherichia coli. KGF stimulates the growth of cells that line the surface of the mouth and intestinal tract.",
+      "url": "https://en.wikipedia.org/wiki/Palifermin",
+      "thumbnail": null,
+      "score": 0.547,
+      "allTimeViews": 57872,
+      "incomingLinks": 364,
+      "languages": 11
+    },
+    "4": {
+      "title": "Stevie Plunder",
+      "description": "Musical artist",
+      "extract": "Stevie Plunder, born as Anthony Hayes, was an Australian guitarist and singer-songwriter. He was a founding member of music groups The Plunderers (1984–1995) and The Whitlams (1992–1996).",
+      "url": "https://en.wikipedia.org/wiki/Stevie_Plunder",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4a/Stevie_94.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "score": 0.386,
+      "allTimeViews": 61867,
+      "incomingLinks": 60,
+      "languages": 2
+    },
+    "5": {
+      "title": "Mount Parrish",
+      "description": "Mountain in the country of Canada",
+      "extract": "Mount Parrish is a 2,530-metre (8,301-foot) mountain summit located in Alberta, Canada.",
+      "url": "https://en.wikipedia.org/wiki/Mount_Parrish",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Mount_Parrish%2C_Flathead_Range.jpg/330px-Mount_Parrish%2C_Flathead_Range.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.208,
+      "allTimeViews": 490,
+      "incomingLinks": 6,
+      "languages": 1
+    }
+  }
+}
