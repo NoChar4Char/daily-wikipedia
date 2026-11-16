@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-18",
+  "levels": {
+    "1": {
+      "title": "Stephen Graham",
+      "description": "English actor (born 1973)",
+      "extract": "Stephen Joseph Graham is an English actor, producer, and screenwriter. He has received nominations for seven British Academy Television Awards and one British Academy Film Award. He has also won three Primetime Emmy Awards, one Golden Globe Award and two Actor Awards, among other accolades.",
+      "url": "https://en.wikipedia.org/wiki/Stephen_Graham",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Stephen_Graham_Venice_Film_Festival.jpg/330px-Stephen_Graham_Venice_Film_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.704,
+      "allTimeViews": 17562158,
+      "incomingLinks": 336,
+      "languages": 38
+    },
+    "2": {
+      "title": "Sahti",
+      "description": "Finnish ale",
+      "extract": "Sahti is a Finnish type of farmhouse ale made from malted and unmalted grains including barley and rye. Traditionally the ale is flavored with juniper in addition to, or instead of, hops; the mash is filtered through juniper twigs into a trough-shaped tun, called a kuurna in Finnish. Sahti is top-fermented and many have a banana flavor due to isoamyl acetate from the use of baking yeast, although ale yeast may also be used in fermenting.",
+      "url": "https://en.wikipedia.org/wiki/Sahti",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Lammin_sahtia.JPG/330px-Lammin_sahtia.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.566,
+      "allTimeViews": 290683,
+      "incomingLinks": 134,
+      "languages": 19
+    },
+    "3": {
+      "title": "Rennbahnweg station",
+      "description": "Vienna U-Bahn station",
+      "extract": "Rennbahnweg is a station on U1 of the Vienna U-Bahn. It is located in the Donaustadt District and opened in 2006.",
+      "url": "https://en.wikipedia.org/wiki/Rennbahnweg_station",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/U1_Rennbahnweg1.JPG/330px-U1_Rennbahnweg1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.429,
+      "allTimeViews": 2610,
+      "incomingLinks": 38,
+      "languages": 13
+    },
+    "4": {
+      "title": "Dancing on Ice series 12",
+      "description": "Twelfth series of Dancing on Ice",
+      "extract": "The twelfth series of Dancing on Ice debuted on ITV on 5 January 2020. During the finale of the eleventh series, it was announced that Dancing on Ice had been renewed for another series. The series is once again filmed in the purpose-built studio at Bovingdon Airfield.",
+      "url": "https://en.wikipedia.org/wiki/Dancing_on_Ice_series_12",
+      "thumbnail": null,
+      "score": 0.355,
+      "allTimeViews": 24826,
+      "incomingLinks": 77,
+      "languages": 1
+    },
+    "5": {
+      "title": "Helmsley Town Hall",
+      "description": "Municipal building in Helmsley, North Yorkshire, England",
+      "extract": "Helmsley Town Hall is a municipal building in the Market Place in Helmsley, North Yorkshire, England. The structure, which is used as a community library and a community events centre, is a grade II listed building.",
+      "url": "https://en.wikipedia.org/wiki/Helmsley_Town_Hall",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Helmsley_Town_Hall.jpg/330px-Helmsley_Town_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.214,
+      "allTimeViews": 1161,
+      "incomingLinks": 5,
+      "languages": 1
+    }
+  }
+}
