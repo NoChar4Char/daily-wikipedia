@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-19",
+  "levels": {
+    "1": {
+      "title": "Hans Zimmer",
+      "description": "German film composer (born 1957)",
+      "extract": "Hans Florian Zimmer is a German film composer and music producer. He has received numerous accolades including two Academy Awards, a BAFTA Award, three Golden Globe Awards, and five Grammy Awards, as well as nominations for seven Primetime Emmy Awards. Zimmer was also named one of the Top 100 Living Geniuses by The Daily Telegraph in 2007.",
+      "url": "https://en.wikipedia.org/wiki/Hans_Zimmer",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Hans-Zimmer-profile.jpg/330px-Hans-Zimmer-profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.836,
+      "allTimeViews": 18864232,
+      "incomingLinks": 2482,
+      "languages": 87
+    },
+    "2": {
+      "title": "Petrichor",
+      "description": "Earthy smell when rain falls on dry soil",
+      "extract": "Petrichor is the earthy scent often associated with rain falling on dry soil or rock. The term was introduced by Australian researchers Isabel Joy Bear and Richard Grenfell Thomas in a 1964 paper in Nature. Bear and Thomas used the term for an odour released from rock or soil materials after dry conditions when they are exposed to moisture.",
+      "url": "https://en.wikipedia.org/wiki/Petrichor",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Water_and_soil_splashed_by_the_impact_of_a_single_raindrop.jpg/330px-Water_and_soil_splashed_by_the_impact_of_a_single_raindrop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.638,
+      "allTimeViews": 3845780,
+      "incomingLinks": 82,
+      "languages": 43
+    },
+    "3": {
+      "title": "Santiago Challenger",
+      "description": "Tennis tournament",
+      "extract": "The Santiago Challenger, also known as Movistar Open by Cachantún for sponsorship reasons, was a professional tennis tournament played on clay courts. It was currently part of the Association of Tennis Professionals (ATP) Challenger Tour. It was held in Vitacura, Santiago Metropolitan Region, Chile in 2015, 2016 and in 2017.",
+      "url": "https://en.wikipedia.org/wiki/Santiago_Challenger",
+      "thumbnail": null,
+      "score": 0.474,
+      "allTimeViews": 4784,
+      "incomingLinks": 465,
+      "languages": 5
+    },
+    "4": {
+      "title": "Gerald Cooper",
+      "description": "British farmhand (born 1947)",
+      "extract": "Gerald Cooper is a British farmhand who became famous after appearing on Clarkson's Farm. He is an expert in dry stone walling and maintains the walls on Diddly Squat Farm. His other tasks include combine harvesting, which he has done for over fifty years.",
+      "url": "https://en.wikipedia.org/wiki/Gerald_Cooper",
+      "thumbnail": null,
+      "score": 0.268,
+      "allTimeViews": 338002,
+      "incomingLinks": 2,
+      "languages": 1
+    },
+    "5": {
+      "title": "Marcel Douzima",
+      "description": "Central African politician and teacher",
+      "extract": "Marcel Douzima was a Central African politician and teacher who served in various ministerial positions under the David Dacko Presidency.",
+      "url": "https://en.wikipedia.org/wiki/Marcel_Douzima",
+      "thumbnail": null,
+      "score": 0.207,
+      "allTimeViews": 467,
+      "incomingLinks": 6,
+      "languages": 1
+    }
+  }
+}
