@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-20",
+  "levels": {
+    "1": {
+      "title": "Matthew Rhys",
+      "description": "Welsh actor (born 1974)",
+      "extract": "Matthew Rhys is a Welsh actor. Known for portraying morally complex protagonists, he has received various accolades including four Primetime Emmy Awards, becoming the first and only actor to win in all three Lead Actor categories in Emmys history. He has also been nominated for two Actor Awards, two BAFTAs, and four Golden Globe Awards.",
+      "url": "https://en.wikipedia.org/wiki/Matthew_Rhys",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/MatthewRhys-byPhilipRomano.jpg/330px-MatthewRhys-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.702,
+      "allTimeViews": 20138013,
+      "incomingLinks": 344,
+      "languages": 35
+    },
+    "2": {
+      "title": "Kakure Kirishitan",
+      "description": "Japanese Christian sect",
+      "extract": "Kakure Kirishitan is a modern term for a member of the Catholic Church in Japan who went underground at the start of the Edo period in the early 17th century due to Christianity's repression by the Tokugawa shogunate. The term is particularly used today for those who have refused to embrace modern Roman Catholic practices and still hold onto the traditions established during the times of persecution.",
+      "url": "https://en.wikipedia.org/wiki/Kakure_Kirishitan",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/C-613_E0183363.jpg/330px-C-613_E0183363.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.62,
+      "allTimeViews": 801317,
+      "incomingLinks": 234,
+      "languages": 25
+    },
+    "3": {
+      "title": "Jean Fayard",
+      "description": "French writer",
+      "extract": "Jean Fayard was a French writer and journalist, winner of the Prix Goncourt in 1931.",
+      "url": "https://en.wikipedia.org/wiki/Jean_Fayard",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Jean_Fayard_1931.jpg/330px-Jean_Fayard_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.446,
+      "allTimeViews": 6202,
+      "incomingLinks": 119,
+      "languages": 7
+    },
+    "4": {
+      "title": "Carnal Madness",
+      "description": "1975 film",
+      "extract": "Carnal Madness is a 1975 exploitation film directed by Gregory Corarito and starring Stephen Stucker, Bob Minor, and Michael Pataki as three escaped mental patients wreaking havoc in a female detention center.",
+      "url": "https://en.wikipedia.org/wiki/Carnal_Madness",
+      "thumbnail": null,
+      "score": 0.361,
+      "allTimeViews": 73660,
+      "incomingLinks": 11,
+      "languages": 4
+    },
+    "5": {
+      "title": "Shaburov",
+      "description": "Surname list",
+      "extract": "Shaburov is a Russian masculine surname, its feminine counterpart is Shaburova. The surname may refer to the following notable people:Maxim Shaburov, Russian wheelchair fencer\nVictor Shaburov, Cypriot Russian entrepreneur",
+      "url": "https://en.wikipedia.org/wiki/Shaburov",
+      "thumbnail": null,
+      "score": 0.178,
+      "allTimeViews": 570,
+      "incomingLinks": 2,
+      "languages": 1
+    }
+  }
+}
