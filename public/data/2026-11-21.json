@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-21",
+  "levels": {
+    "1": {
+      "title": "Dwayne Johnson",
+      "description": "American actor and professional wrestler (born 1972)",
+      "extract": "Dwayne Douglas Johnson, also known by his ring name \"the Rock\", is an American actor and semi-retired professional wrestler. He is signed to WWE, where he performs on a part-time basis. Widely regarded as one of the greatest professional wrestlers of all time, Johnson was integral to the development and success of the World Wrestling Federation during the Attitude Era. He wrestled for the WWF full-time for eight years before pursuing an acting career. His films have grossed over $11.4 billion worldwide, making him one of the world's highest-grossing actors of all time. He is a co-owner of the United Football League, a member of the board of directors of TKO Group Holdings—the parent company of UFC and WWE—and co-founder of Seven Bucks Productions.",
+      "url": "https://en.wikipedia.org/wiki/Dwayne_Johnson",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Dwayne_Johnson-1764_%284x5_cropped_with_moderate_headroom%29.jpg/330px-Dwayne_Johnson-1764_%284x5_cropped_with_moderate_headroom%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.882,
+      "allTimeViews": 101341850,
+      "incomingLinks": 4217,
+      "languages": 104
+    },
+    "2": {
+      "title": "Saint-Laurent-la-Conche",
+      "description": "Commune in Auvergne-Rhône-Alpes, France",
+      "extract": "Saint-Laurent-la-Conche is a commune in the Loire department in central France.",
+      "url": "https://en.wikipedia.org/wiki/Saint-Laurent-la-Conche",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/St.Laurent-la-Conche_%28Loire%2C_Fr%29_mairie.JPG/330px-St.Laurent-la-Conche_%28Loire%2C_Fr%29_mairie.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.576,
+      "allTimeViews": 2903,
+      "incomingLinks": 335,
+      "languages": 35
+    },
+    "3": {
+      "title": "Alexander Canario",
+      "description": "Dominican baseball player (born 2000)",
+      "extract": "Alexander Canario is a Dominican professional baseball outfielder for the Saitama Seibu Lions of Nippon Professional Baseball (NPB). He has previously played in Major League Baseball (MLB) for the Chicago Cubs and Pittsburgh Pirates. He made his MLB debut in 2023.",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Canario",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Alexander_Canario_%2852372277507%29_%28cropped%29.jpg/330px-Alexander_Canario_%2852372277507%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.426,
+      "allTimeViews": 75424,
+      "incomingLinks": 98,
+      "languages": 3
+    },
+    "4": {
+      "title": "List of Terrytoons animated shorts",
+      "description": "",
+      "extract": "This is a list of animated short films produced by Terrytoons from 1929 to 1968 and released theatrically. Terrytoons co-founder Paul Terry was active until 1955 when the studio was sold to CBS. The list includes cartoons originally produced for television that were later screened in theaters from 1959 to 1975. The list does not include cartoons produced by Paul Terry before the founding of Terrytoons, such as Aesop's Fables and cartoons he produced while working at Van Beuren Studios.",
+      "url": "https://en.wikipedia.org/wiki/List_of_Terrytoons_animated_shorts",
+      "thumbnail": null,
+      "score": 0.316,
+      "allTimeViews": 142590,
+      "incomingLinks": 6,
+      "languages": 2
+    },
+    "5": {
+      "title": "Khamaungtaw",
+      "description": "Place in Rakhine State, Burma",
+      "extract": "Khamaungtaw is a village in Ann Township, Kyaukpyu District, in northern Rakhine State in the westernmost part of Burma (Myanmar). It is northwest of Ann on the Ann - Minbya highway. Khamaungtaw is southeast of Dalet.",
+      "url": "https://en.wikipedia.org/wiki/Khamaungtaw",
+      "thumbnail": null,
+      "score": 0.169,
+      "allTimeViews": 908,
+      "incomingLinks": 1,
+      "languages": 1
+    }
+  }
+}
