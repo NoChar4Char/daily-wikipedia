@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-23",
+  "levels": {
+    "1": {
+      "title": "Kieran Culkin",
+      "description": "American actor (born 1982)",
+      "extract": "Kieran Kyle Culkin is an American actor. Known for his performances of distasteful yet sympathetic characters across stage and screen, he has received numerous accolades, including an Academy Award, a BAFTA Award, two Golden Globe Awards, and a Primetime Emmy Award.",
+      "url": "https://en.wikipedia.org/wiki/Kieran_Culkin",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kieran_Culkin_at_the_2024_New_York_Film_Festival_2_%28cropped_II%29.jpg/330px-Kieran_Culkin_at_the_2024_New_York_Film_Festival_2_%28cropped_II%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.724,
+      "allTimeViews": 24517360,
+      "incomingLinks": 334,
+      "languages": 48
+    },
+    "2": {
+      "title": "Amiga 600",
+      "description": "Home computer introduced in 1992",
+      "extract": "The Amiga 600, also known as the A600, and full title Commodore Amiga 600, is a home computer introduced in March 1992. It is the final Amiga model based on the Motorola 68000 and the 1990 Amiga Enhanced Chip Set. A redesign of the Amiga 500 Plus, it adds the option of an internal hard disk drive and a PCMCIA port. Lacking a numeric keypad, the A600 is only slightly larger than an IBM PC keyboard, weighing approximately 6 pounds (2.72kg). It shipped with AmigaOS 2.0, which was considered more user-friendly than earlier versions of the operating system.",
+      "url": "https://en.wikipedia.org/wiki/Amiga_600",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Commodore_Amiga_600_top.png/330px-Commodore_Amiga_600_top.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.569,
+      "allTimeViews": 324208,
+      "incomingLinks": 126,
+      "languages": 20
+    },
+    "3": {
+      "title": "Little House on the Prairie (2005 TV series)",
+      "description": "2005 American TV series or program",
+      "extract": "Little House on the Prairie is a 2005 American Western television miniseries directed by David L. Cunningham. It is a six-part adaptation of children's novels Little House in the Big Woods (1932) and Little House on the Prairie (1935) by Laura Ingalls Wilder. It was broadcast on ABC from March 26 to April 23, 2005, as part of The Wonderful World of Disney anthology series.",
+      "url": "https://en.wikipedia.org/wiki/Little_House_on_the_Prairie_(2005_TV_series)",
+      "thumbnail": null,
+      "score": 0.438,
+      "allTimeViews": 10384,
+      "incomingLinks": 101,
+      "languages": 6
+    },
+    "4": {
+      "title": "Potasze",
+      "description": "Village in Greater Poland Voivodeship, Poland",
+      "extract": "Potasze is a village in the administrative district of Gmina Czerwonak, within Poznań County, Greater Poland Voivodeship, in west-central Poland.",
+      "url": "https://en.wikipedia.org/wiki/Potasze",
+      "thumbnail": null,
+      "score": 0.369,
+      "allTimeViews": 1497,
+      "incomingLinks": 21,
+      "languages": 8
+    },
+    "5": {
+      "title": "Image Union",
+      "description": "American independent documentary series",
+      "extract": "Image Union is an American independent documentary series created by Jamie Cesar and Tom Weinberg. It was aired on WTTW, a PBS affiliate in Chicago, Illinois and premiered on November 16, 1978. Each hour-long episode was either a \"theme show\" or a \"potpourri\" of work from different video makers and the segments were cut together with few transitions or announcer introductions. The show did not have an official end date and reruns regularly ran on WTTW up until the early 2010s.",
+      "url": "https://en.wikipedia.org/wiki/Image_Union",
+      "thumbnail": null,
+      "score": 0.241,
+      "allTimeViews": 4999,
+      "incomingLinks": 6,
+      "languages": 1
+    }
+  }
+}
