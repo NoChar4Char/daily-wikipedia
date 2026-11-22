@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-24",
+  "levels": {
+    "1": {
+      "title": "Sean Connery",
+      "description": "Scottish actor and producer (1930–2020)",
+      "extract": "Sir Thomas Sean Connery was a Scottish actor and film producer. Connery was the first actor to portray the fictional British secret agent James Bond in motion pictures, starring in seven Bond films between 1962 and 1983. He originated the role in Dr. No (1962) and continued starring as Bond in the Eon Productions films From Russia with Love (1963), Goldfinger (1964), Thunderball (1965), You Only Live Twice (1967) and Diamonds Are Forever (1971). His final appearance in the role was with Never Say Never Again (1983), a non-Eon-produced Bond film.",
+      "url": "https://en.wikipedia.org/wiki/Sean_Connery",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Sean_Connery_as_James_Bond_at_Switzerland_1964_%28two_thirds_crop%29.jpg/330px-Sean_Connery_as_James_Bond_at_Switzerland_1964_%28two_thirds_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.885,
+      "allTimeViews": 45437053,
+      "incomingLinks": 3269,
+      "languages": 128
+    },
+    "2": {
+      "title": "Illinois State University",
+      "description": "Public university in Normal, Illinois, US",
+      "extract": "Illinois State University is a public research university in Normal, Illinois, United States. It was founded in 1857 as Illinois State Normal University and is the oldest public university in Illinois. In fall 2026, the university enrolled 21,577 students.",
+      "url": "https://en.wikipedia.org/wiki/Illinois_State_University",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/3e/Illinois_State_University_seal.svg/330px-Illinois_State_University_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.692,
+      "allTimeViews": 1263916,
+      "incomingLinks": 1543,
+      "languages": 23
+    },
+    "3": {
+      "title": "Jackie Jormp-Jomp",
+      "description": "18th episode of the 3rd season of 30 Rock",
+      "extract": "\"Jackie Jormp-Jomp\" is the eighteenth episode of the third season of the American television series 30 Rock. It was directed by series producer Don Scardino, and written by executive story editor Kay Cannon and script co-coordinator Tracey Wigfield. The episode originally aired on NBC in the United States on April 16, 2009. Guest stars in the episode include Todd Buonopane, Kerry Butler, Danielle Flora, Mary Catherine Garrison, Christina Gausas, and Elizabeth Marvel.",
+      "url": "https://en.wikipedia.org/wiki/Jackie_Jormp-Jomp",
+      "thumbnail": null,
+      "score": 0.438,
+      "allTimeViews": 115984,
+      "incomingLinks": 190,
+      "languages": 2
+    },
+    "4": {
+      "title": "Jerzy Bardziński",
+      "description": "Polish bobsledder (1892–1933)",
+      "extract": "Jerzy Bardziński was a Polish bobsledder. He competed in the four-man event at the 1928 Winter Olympics.",
+      "url": "https://en.wikipedia.org/wiki/Jerzy_Bardzi%C5%84ski",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Bardzi%C5%84ski_Jerzy_pp%C5%82k_kaw._kawaler_VM.jpg/330px-Bardzi%C5%84ski_Jerzy_pp%C5%82k_kaw._kawaler_VM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.281,
+      "allTimeViews": 1071,
+      "incomingLinks": 6,
+      "languages": 4
+    },
+    "5": {
+      "title": "National Transmission Company of South Africa",
+      "description": "Subsidiary of Eskom",
+      "extract": "The National Transmission Company of South Africa (NTCSA) is the company responsible for the transmission of electricity in South Africa.",
+      "url": "https://en.wikipedia.org/wiki/National_Transmission_Company_of_South_Africa",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Eskom_NTCSA_Transmission_Line_Infrastructure.svg/330px-Eskom_NTCSA_Transmission_Line_Infrastructure.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.245,
+      "allTimeViews": 10156,
+      "incomingLinks": 5,
+      "languages": 1
+    }
+  }
+}
