@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-25",
+  "levels": {
+    "1": {
+      "title": "Zooey Deschanel",
+      "description": "American actress and singer (born 1980)",
+      "extract": "Zooey Claire Deschanel is an American actress and singer. She made her film debut in Mumford (1999) and had a supporting role in Cameron Crowe's film Almost Famous (2000). Deschanel is known for her deadpan roles in comedy films such as The Good Girl (2002), The New Guy (2002), Elf (2003), The Hitchhiker's Guide to the Galaxy (2005), Failure to Launch (2006), Yes Man (2008), 500 Days of Summer (2009), and Our Idiot Brother (2011). She has also ventured into dramatic film territory with Manic (2001), All the Real Girls (2003), Winter Passing (2005), Bridge to Terabithia (2007), The Happening (2008), and The Driftless Area (2015). From 2011 to 2018, she starred as Jessica Day on the Fox sitcom New Girl, for which she received nominations for a Primetime Emmy Award and three Golden Globe Awards.",
+      "url": "https://en.wikipedia.org/wiki/Zooey_Deschanel",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Zooey_Deschanel_-_Song_Sung_Blue.jpg/330px-Zooey_Deschanel_-_Song_Sung_Blue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.788,
+      "allTimeViews": 36478036,
+      "incomingLinks": 860,
+      "languages": 67
+    },
+    "2": {
+      "title": "German submarine U-71 (1940)",
+      "description": "German World War II submarine",
+      "extract": "German submarine U-71 was a type VII C submarine of Nazi Germany's Kriegsmarine during the Second World War.",
+      "url": "https://en.wikipedia.org/wiki/German_submarine_U-71_(1940)",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/U-71_Luftangriff.jpg/330px-U-71_Luftangriff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.588,
+      "allTimeViews": 37924,
+      "incomingLinks": 956,
+      "languages": 13
+    },
+    "3": {
+      "title": "Sunfish Township, Pike County, Ohio",
+      "description": "Township in Ohio, US",
+      "extract": "Sunfish Township is one of the fourteen townships of Pike County, Ohio, United States. The 2020 census found 1,115 people in the township.",
+      "url": "https://en.wikipedia.org/wiki/Sunfish_Township%2C_Pike_County%2C_Ohio",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/White_Oak_Hill_Road_in_winter.jpg/330px-White_Oak_Hill_Road_in_winter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.408,
+      "allTimeViews": 6008,
+      "incomingLinks": 44,
+      "languages": 7
+    },
+    "4": {
+      "title": "Pyramidula chorismenostoma",
+      "description": "Species of land snail",
+      "extract": "Pyramidula chorismenostoma is a species of very small air-breathing land snail, a terrestrial pulmonate gastropod mollusk or micromollusk in the family Pyramidulidae.",
+      "url": "https://en.wikipedia.org/wiki/Pyramidula_chorismenostoma",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/50/Pyramidula_chorismenostoma_shell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "score": 0.291,
+      "allTimeViews": 1443,
+      "incomingLinks": 7,
+      "languages": 4
+    },
+    "5": {
+      "title": "Midway Arena",
+      "description": "Proposed indoor arena in San Diego",
+      "extract": "Midway Arena is a planned indoor arena to be constructed in San Diego, California, intended to replace the 1960s-era Pechanga Arena. The development proposal includes the 16,000-seat arena, housing units, a multi-acre urban park, and a mixed-use entertainment, arts, and cultural district.",
+      "url": "https://en.wikipedia.org/wiki/Midway_Arena",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/57/Midway_Arena.jpg/330px-Midway_Arena.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.232,
+      "allTimeViews": 12212,
+      "incomingLinks": 3,
+      "languages": 1
+    }
+  }
+}
