@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-26",
+  "levels": {
+    "1": {
+      "title": "Riemann hypothesis",
+      "description": "Statement about zeros of the zeta function",
+      "extract": "In mathematics, the Riemann hypothesis is the theorem that the Riemann zeta function has its zeros only at the negative even integers and at complex numbers with real part. First posed in 1859 by Bernhard Riemann, it is considered by pure mathematicians to be one of the most important problems in the field. The result has importance in number theory because it implies bounds on the distribution of prime numbers. The name is also used for some closely related analogues such as the Riemann hypothesis for curves over finite fields, which was proved by André Weil around 1940.",
+      "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Riemann_zeta_function_absolute_value.png/330px-Riemann_zeta_function_absolute_value.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.762,
+      "allTimeViews": 6299819,
+      "incomingLinks": 1041,
+      "languages": 59
+    },
+    "2": {
+      "title": "Anophthalmia",
+      "description": "Medical condition",
+      "extract": "Anophthalmia is the medical term for the absence of one or both eyes. Both the globe and the ocular tissue are missing from the orbit. The absence of the eye will cause a small bony orbit, a constricted mucosal socket, short eyelids, reduced palpebral fissure and malar prominence. Genetic mutations, chromosomal abnormalities, and prenatal environment can all cause anophthalmia. Anophthalmia is an extremely rare disease and is mostly rooted in genetic abnormalities. It can also be associated with other syndromes.",
+      "url": "https://en.wikipedia.org/wiki/Anophthalmia",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Mikro.PNG/330px-Mikro.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.576,
+      "allTimeViews": 379048,
+      "incomingLinks": 132,
+      "languages": 21
+    },
+    "3": {
+      "title": "John Richard C. King",
+      "description": "American politician",
+      "extract": "John Richard Christopher King is an American politician. He is a member of the South Carolina House of Representatives from the 49th District, serving since 2009. He is a member of the Democratic party. King previously served as a Chester city councilman from 1999 to 2000 and county councilman from 2000 to 2006. King is also a funeral director at Christopher King's Funeral Home in Chester, South Carolina, Professor at Clinton College in Rock Hill, SC.",
+      "url": "https://en.wikipedia.org/wiki/John_Richard_C._King",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/John_Richard_C._King.jpeg/330px-John_Richard_C._King.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.419,
+      "allTimeViews": 12940,
+      "incomingLinks": 156,
+      "languages": 3
+    },
+    "4": {
+      "title": "List of settlements in Sri Lanka",
+      "description": "",
+      "extract": "\nThe following is a list of settlements in Sri Lanka.List of settlements in Central Province, Sri Lanka\nList of settlements in Eastern Province, Sri Lanka\nList of settlements in North Central Province, Sri Lanka\nList of settlements in Northern Province, Sri Lanka\nList of settlements in North Western Province, Sri Lanka\nList of settlements in Sabaragamuwa\nList of settlements in Southern Province, Sri Lanka\nList of settlements in Uva\nList of settlements in Western Province, Sri Lanka",
+      "url": "https://en.wikipedia.org/wiki/List_of_settlements_in_Sri_Lanka",
+      "thumbnail": null,
+      "score": 0.313,
+      "allTimeViews": 4633,
+      "incomingLinks": 48,
+      "languages": 1
+    },
+    "5": {
+      "title": "Omar Moʽallim Nur",
+      "description": "Somali military commander",
+      "extract": "Omar Moʽallim Nur is a commander of Ahlu Sunna Waljama'a in Banaadir region in Somalia.",
+      "url": "https://en.wikipedia.org/wiki/Omar_Mo%CA%BDallim_Nur",
+      "thumbnail": null,
+      "score": 0.221,
+      "allTimeViews": 1875,
+      "incomingLinks": 5,
+      "languages": 1
+    }
+  }
+}
