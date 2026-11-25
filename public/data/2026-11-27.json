@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-27",
+  "levels": {
+    "1": {
+      "title": "Sandra Bullock",
+      "description": "American actress (born 1964)",
+      "extract": "Sandra Annette Bullock is a German-American actress and film producer. The world's highest-paid actress of 2010 and 2014, Bullock's filmography spans both comedy and drama, and her accolades include an Academy Award, a Golden Globe Award, two Screen Actors Guild Awards, and three Critics' Choice Movie Awards. She was named one of Time's 100 most influential people in the world in 2010.",
+      "url": "https://en.wikipedia.org/wiki/Sandra_Bullock",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Sandra_Bullock_at_The_Egyptian_Theatre_2024.jpg/330px-Sandra_Bullock_at_The_Egyptian_Theatre_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.854,
+      "allTimeViews": 47337115,
+      "incomingLinks": 1751,
+      "languages": 114
+    },
+    "2": {
+      "title": "Winnebago, Minnesota",
+      "description": "City in Minnesota, United States",
+      "extract": "Winnebago is a city in Faribault County, Minnesota, United States. The population was 1,391 at the 2020 census.",
+      "url": "https://en.wikipedia.org/wiki/Winnebago%2C_Minnesota",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Winnebago%2C_Minnesota.jpg/330px-Winnebago%2C_Minnesota.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.565,
+      "allTimeViews": 36553,
+      "incomingLinks": 93,
+      "languages": 36
+    },
+    "3": {
+      "title": "Bhojipura Assembly constituency",
+      "description": "Constituency of the Uttar Pradesh legislative assembly in India",
+      "extract": "Bhojipura Assembly constituency is one of the 403 constituencies of the Uttar Pradesh Legislative Assembly, India. It is a part of the Bareilly district and one of the five assembly constituencies in the Bareilly Lok Sabha constituency. First election in this assembly constituency was held in 1957 after the \"DPACO (1956)\" was passed in 1956. After the \"Delimitation of Parliamentary and Assembly Constituencies Order\" was passed in 2008, the constituency was assigned identification number 120.",
+      "url": "https://en.wikipedia.org/wiki/Bhojipura_Assembly_constituency",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/120-Bhojipura.svg/330px-120-Bhojipura.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.484,
+      "allTimeViews": 28163,
+      "incomingLinks": 432,
+      "languages": 4
+    },
+    "4": {
+      "title": "Mamar Mosque",
+      "description": "Former mosque in Qubadli, Azerbaijan",
+      "extract": "The Mamar Mosque is a former mosque and historical architectural monument located in the village of Məmər (Mamar) in the Qubadli District of Azerbaijan.",
+      "url": "https://en.wikipedia.org/wiki/Mamar_Mosque",
+      "thumbnail": null,
+      "score": 0.317,
+      "allTimeViews": 3562,
+      "incomingLinks": 4,
+      "languages": 7
+    },
+    "5": {
+      "title": "Hilton Bendixen",
+      "description": "Australian cricketer",
+      "extract": "Hilton Bendixen was an Australian cricketer who was a tall left-handed medium-fast bowler who bowled a consistent length, utilized swing, and also occasionally bowled spin. He played in one first-class match for Queensland in 1941.",
+      "url": "https://en.wikipedia.org/wiki/Hilton_Bendixen",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Hilton_Bendixen.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "score": 0.22,
+      "allTimeViews": 712,
+      "incomingLinks": 3,
+      "languages": 2
+    }
+  }
+}
