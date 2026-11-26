@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-28",
+  "levels": {
+    "1": {
+      "title": "Peter Thiel",
+      "description": "American entrepreneur and venture capitalist (born 1967)",
+      "extract": "Peter Andreas Thiel is a German-American entrepreneur, venture capitalist, and political activist. A co-founder of PayPal, Palantir Technologies and Founders Fund, he was also the first outside investor in Facebook. As of October 2026, Forbes estimated Thiel's net worth at US$37.7 billion.",
+      "url": "https://en.wikipedia.org/wiki/Peter_Thiel",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Peter_Thiel_by_Gage_Skidmore.jpg/330px-Peter_Thiel_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.758,
+      "allTimeViews": 25117644,
+      "incomingLinks": 865,
+      "languages": 46
+    },
+    "2": {
+      "title": "Ovalentaria",
+      "description": "Clade of fishes",
+      "extract": "Ovalentaria is a clade of ray-finned fishes within the Percomorpha, referred to as a subseries. It is made up of a group of fish families which are referred to in Fishes of the World's fifth edition as incertae sedis, as well as the orders Mugiliformes, Cichliformes, and Blenniiformes. It was named by W. L. Smith and T. J. Near in Wainwright et al. (2012) based on a molecular phylogeny, but the authors suggested that the group was united by the presence of demersal eggs that are attached to a substrate. Some authors have used the ordinal name Stiassnyiformes for a clade including Mugiloidei, Plesiopidae, Blenniiformes, Atherinomorpha, and Cichlidae, and this grouping does appear to be monophyletic.",
+      "url": "https://en.wikipedia.org/wiki/Ovalentaria",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Hypsypops_rubicundus%2C_Shedd_Aquarium%2C_2013.jpg/330px-Hypsypops_rubicundus%2C_Shedd_Aquarium%2C_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.611,
+      "allTimeViews": 207554,
+      "incomingLinks": 942,
+      "languages": 13
+    },
+    "3": {
+      "title": "Qoroq, Golestan",
+      "description": "City in Golestan province, Iran",
+      "extract": "Qoroq is a city in Baharan District of Gorgan County, Golestan province, Iran.",
+      "url": "https://en.wikipedia.org/wiki/Qoroq%2C_Golestan",
+      "thumbnail": null,
+      "score": 0.451,
+      "allTimeViews": 3546,
+      "incomingLinks": 113,
+      "languages": 9
+    },
+    "4": {
+      "title": "Jimmy Napitupulu",
+      "description": "Indonesian football referee (born 1966)",
+      "extract": "Jimmy Napitupulu is an Indonesian former football referee. He has refereed internationally in the ASEAN Football Championship, and the 2006 FIFA World Cup qualifiers. He is also a referee at the Indonesia Super League.",
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Napitupulu",
+      "thumbnail": null,
+      "score": 0.359,
+      "allTimeViews": 7714,
+      "incomingLinks": 38,
+      "languages": 3
+    },
+    "5": {
+      "title": "Volodymyr Karpenko",
+      "description": "Ukrainian military general",
+      "extract": "Volodymyr Karpenko is a Ukrainian serviceman, Major general of the Armed Forces of Ukraine who served as commander of the Logistics Forces from 29 February 2024 to 29 July 2026.",
+      "url": "https://en.wikipedia.org/wiki/Volodymyr_Karpenko",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/%D0%9A%D0%B0%D1%80%D0%BF%D0%B5%D0%BD%D0%BA%D0%BE_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87.jpg/330px-%D0%9A%D0%B0%D1%80%D0%BF%D0%B5%D0%BD%D0%BA%D0%BE_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.247,
+      "allTimeViews": 2595,
+      "incomingLinks": 2,
+      "languages": 3
+    }
+  }
+}
