@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-29",
+  "levels": {
+    "1": {
+      "title": "Anya Taylor-Joy",
+      "description": "Actress (born 1996)",
+      "extract": "Anya-Josephine Marie Taylor-Joy is an actress. Her accolades include an Actor Award and Golden Globe Award, in addition to a nomination for a Primetime Emmy Award.",
+      "url": "https://en.wikipedia.org/wiki/Anya_Taylor-Joy",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._07_%28cropped%29.jpg/330px-Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._07_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.766,
+      "allTimeViews": 50646614,
+      "incomingLinks": 540,
+      "languages": 59
+    },
+    "2": {
+      "title": "Villotte-Saint-Seine",
+      "description": "Commune in Bourgogne-Franche-Comté, France",
+      "extract": "Villotte-Saint-Seine is a commune in the Côte-d'Or department in eastern France.",
+      "url": "https://en.wikipedia.org/wiki/Villotte-Saint-Seine",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Villotte-Saint-Seine_FR21_%C3%A9glise_IMF3541.jpg/330px-Villotte-Saint-Seine_FR21_%C3%A9glise_IMF3541.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.61,
+      "allTimeViews": 2073,
+      "incomingLinks": 712,
+      "languages": 41
+    },
+    "3": {
+      "title": "Karyn Polito",
+      "description": "American politician and lawyer (born 1966)",
+      "extract": "Karyn Ellen Polito is an American attorney, businesswoman, and politician who served as the 72nd lieutenant governor of Massachusetts from 2015 to 2023. Polito was a Republican member of the Massachusetts House of Representatives for the 11th Worcester district from 2001 to 2011. Polito was first elected lieutenant governor in 2014 with her running mate, Charlie Baker. They were both re-elected in 2018, and declined to seek reelection in 2022.",
+      "url": "https://en.wikipedia.org/wiki/Karyn_Polito",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Karyn_Polito_official_photo_%281%29.jpg/330px-Karyn_Polito_official_photo_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.543,
+      "allTimeViews": 452266,
+      "incomingLinks": 215,
+      "languages": 9
+    },
+    "4": {
+      "title": "List of accolades received by Kaminey",
+      "description": "",
+      "extract": "Kaminey is a 2009 Indian action thriller film directed by Vishal Bhardwaj and produced by Ronnie Screwvala. Shahid Kapoor, Priyanka Chopra, and Amol Gupte star in the lead roles. The film's screenplay was written by Bhardwaj, Abhishek Chaubey, Sabrina Dhawan, and Supratik Sen. Bhardwaj also composed the soundtrack of the film, with lyrics written by Gulzar. Kaminey was edited by A. Sreekar Prasad, and Meghna Manchanda Sen, and the cinematography was provided by Tassaduq Hussain. Set against the backdrop of the Mumbai underworld, the film focuses on the rivalry between identical twin brothers both played by Kapoor, one with a lisp and the other with a stutter, over the course of a single day.",
+      "url": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_Kaminey",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/84/Shahid_%26_Priyanka_promote_%27Teri_Meri_Kahaani%27_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "score": 0.368,
+      "allTimeViews": 29379,
+      "incomingLinks": 49,
+      "languages": 2
+    },
+    "5": {
+      "title": "Welsbach Building",
+      "description": "Historic building in Columbus, Ohio, U.S.",
+      "extract": "The Welsbach Building is a historic building in Downtown Columbus, Ohio. It was built in 1906 and listed on the National Register of Historic Places in 1984. The building served as the middle western department of the Welsbach Company, a manufacturer of gas lights, from 1907 to 1929.",
+      "url": "https://en.wikipedia.org/wiki/Welsbach_Building",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Welsbach_Building.jpg/330px-Welsbach_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "score": 0.221,
+      "allTimeViews": 1190,
+      "incomingLinks": 6,
+      "languages": 1
+    }
+  }
+}
